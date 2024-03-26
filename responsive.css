@@ -1,0 +1,11 @@
+@media(max-width:767px){
+    .hero_wrapper {
+        width: 85%;
+    }
+    .product_list{
+        float: left;
+        width: 80%;
+        margin-left: 10px;
+        margin-bottom: 40px;
+    }
+}
